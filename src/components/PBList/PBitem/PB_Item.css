@@ -1,0 +1,14 @@
+.map{
+  align-self: flex-end;
+}
+ul{
+  list-style: none;
+}
+p{
+  text-transform: uppercase;
+  font-weight: 500;
+  text-shadow: 4px 2px 9px rgb(244, 253, 161)
+}
+small{
+  color: rgb(250, 187, 250);
+}
